@@ -57,8 +57,12 @@ a:hover {
   box-shadow: inset 0 -2px 0 #ee4792;
 }
 
+a.u-url {
+  box-shadow: none;
+}
+
 h2 a {
-   color:#efefef;
+  color:#efefef;
   box-shadow: inset 0 -2px 0 #ee4792;
 }
 
@@ -87,6 +91,10 @@ p a:hover {
   box-shadow: inset 0 -25px 0 #ee4792;
 }
 
+img#avatar {
+   box-shadow: none;
+}
+
 img {
    box-shadow: none;
 }
@@ -111,6 +119,13 @@ p a img:hover {
   box-shadow: none;
 }
 
+blockquote {
+  padding: 10px 10px 10px 15px;
+  margin: 20px 0px 20px 20px;
+  background: #777;
+  quotes: "\201C""\201D""\2018""\2019";
+}
+
 nav.main-nav a, #footer a, #post-nav a {
   box-shadow: inset 0 -2px 0 #ee4792;
 }
@@ -125,4 +140,3 @@ span.separator {
   margin:60px auto 60px;
   width: 65%
 }
-
