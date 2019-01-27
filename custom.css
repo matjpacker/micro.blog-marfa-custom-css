@@ -9,23 +9,19 @@ nav.main-nav a.cta {
 }
 
 nav.main-nav a.cta:hover {
-	background: #fcdae9;
-	color: #fcdae9;
+	background: #ee4792;
+	color: #ee4792;
 }
 
-nav.main-nav a, #footer a, #post-nav a, p a{
-   box-shadow: inset 0 -2px 0 #fcdae9;
+nav.main-nav a, #footer a, #post-nav a{
+   box-shadow: inset 0 -2px 0 #ee4792;
 }
 
-nav.main-nav a:hover, #footer a:hover, #post-nav a:hover, p a:hover {
-	box-shadow: inset 0 -25px 0 #fcdae9;
+nav.main-nav a:hover, #footer a:hover, #post-nav a:hover {
+	box-shadow: inset 0 -25px 0 #ee4792;
 }
 
-nav.main-nav a, #footer a, #post-nav a, p a {
-  color: aqua;
-}
-
-nav.main-nav a, #footer a, #post-nav a, p a {
+nav.main-nav a, #footer a, #post-nav a {
   color: #eee;
 }
 
@@ -34,7 +30,17 @@ body {
   background-color:#666;
 }
 
-p a:img {
+p a {
+  color:#efefef;
+  box-shadow: inset 0 -2px 0 #ee4792;
+}
+
+p a:hover {
+  color:#efefef;
+  box-shadow: inset 0 -25px 0 #ee4792;
+}
+
+img {
    box-shadow: none;
 }
 
@@ -42,11 +48,19 @@ img:hover {
   box-shadow: none;
 }
 
-nav.main-nav a, #footer a, #post-nav a, p a {
+p a img {
+   box-shadow: none;
+}
+
+p a img:hover {
+  box-shadow: none;
+}
+
+nav.main-nav a, #footer a, #post-nav a {
   box-shadow: inset 0 -2px 0 #ee4792;
 }
 
-nav.main-nav a:hover, #footer a:hover, #post-nav a:hover, p a:hover {
+nav.main-nav a:hover, #footer a:hover, #post-nav a:hover {
   box-shadow: inset 0 -25px 0 #ee4792;
   color:#efefef;
 }
