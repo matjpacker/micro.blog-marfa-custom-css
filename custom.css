@@ -34,6 +34,14 @@ body {
   background-color:#666;
 }
 
+p a:img {
+   box-shadow: none;
+}
+
+img:hover {
+  box-shadow: none;
+}
+
 nav.main-nav a, #footer a, #post-nav a, p a {
   box-shadow: inset 0 -2px 0 #ee4792;
 }
