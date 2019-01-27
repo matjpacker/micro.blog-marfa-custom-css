@@ -10,7 +10,7 @@ nav.main-nav a.cta {
 
 nav.main-nav a.cta:hover {
 	background: #ee4792;
-	color: #ee4792;
+	color: #fcdae9;
 }
 
 nav.main-nav a, #footer a, #post-nav a{
@@ -70,3 +70,4 @@ span.separator {
   margin:60px auto 60px;
   width: 65%
 }
+
