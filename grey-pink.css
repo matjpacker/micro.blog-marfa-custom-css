@@ -1,3 +1,11 @@
+#wrapper {
+  width: 960px;
+}
+
+section#wrapper {
+  width: 960px;
+}
+
 nav.main-nav {
   background-color:#444;
   padding: 20px 20px 20px 0px;
@@ -30,17 +38,6 @@ nav.main-nav a, #footer a, #post-nav a {
 body {
   color:#efefef;
   background-color:#666;
-}
-
-#wrapper {
-  width: 900px;
-  max-width: 900px;
-  margin: 0 auto;
-  padding: 25px;
-}
-
-section {
-  width: 900px;
 }
 
 h1, h2, h3 {
@@ -140,3 +137,4 @@ span.separator {
   margin:60px auto 60px;
   width: 65%
 }
+
