@@ -1,1 +1,103 @@
-// this theme style is heavily influeced by the awesome swissmiss.com website, Tina's website has been one of my favourites forever! //
+/* this theme style is heavily influeced by the awesome swissmiss.com website, Tina's website has been one of my favourites forever! */
+
+#wrapper {
+  width: 960px;
+  max-width: 100%
+}
+
+section#wrapper {
+  width: 960px;
+}
+
+nav.main-nav {
+  padding: 20px 20px 20px 0px;
+  width: 100%;
+}
+
+nav.main-nav a.cta {
+}
+
+nav.main-nav a.cta:hover {
+}
+
+nav.main-nav a, #footer a, #post-nav a {
+}
+
+nav.main-nav a:hover, #footer a:hover, #post-nav a:hover {
+}
+
+nav.main-nav a, #footer a, #post-nav a {
+}
+
+body {
+}
+
+h1, h2, h3 {
+}
+
+a {
+}
+
+a:hover {
+}
+
+a.u-url {
+}
+
+h2 a {
+}
+
+h2 a:hover {
+}
+
+p a {
+}
+
+p a:hover {
+}
+
+.post-body li a {
+}
+
+.post-body li a:hover {
+}
+
+img#avatar {
+}
+
+img {
+}
+
+img:hover {
+}
+
+a img {
+}
+
+a img:hover {
+}
+
+p a img {
+}
+
+p a img:hover {
+}
+
+blockquote {
+  padding: 10px 10px 10px 15px;
+  margin: 20px 0px 20px 20px;
+  background: #777;
+  quotes: "\201C""\201D""\2018""\2019";
+}
+
+nav.main-nav a, #footer a, #post-nav a {
+}
+
+nav.main-nav a:hover, #footer a:hover, #post-nav a:hover {
+}
+
+span.separator {
+  display:block;
+  margin:60px auto 60px;
+  width: 65%
+}
